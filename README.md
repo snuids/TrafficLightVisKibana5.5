@@ -10,4 +10,6 @@ Split chart option added.
 
 Simply unzip the content in the plugin folder of Kibana.
 
-More info on docker and kibana here: http://pi2s.wordpress.com
+More info on docker and kibana here: https://mannekentech.com/
+
+![Transform Vis](https://raw.githubusercontent.com/snuids/TrafficLightVisKibana5.5/master/TrafficLight5.5.jpg)
