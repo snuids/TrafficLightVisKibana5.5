@@ -1,31 +1,13 @@
-# trafficlightplugin
+# Traffic Light Visualization
 
-> An awesome Kibana plugin
+Kibana 5.5 version of http://logz.io/blog/kibana-visualizations/
 
----
+For Kibana 5.4 see my other repositories 
 
-## development
+Kibana 4.4 version here https://github.com/snuids/traffic_light_vis
 
-See the [kibana contributing guide](https://github.com/elastic/kibana/blob/master/CONTRIBUTING.md) for instructions setting up your development environment. Once you have completed that, use the following npm tasks.
+Split chart option added.
 
-  - `npm start`
+Simply unzip the content in the plugin folder of Kibana.
 
-    Start kibana and have it include this plugin
-
-  - `npm start -- --config kibana.yml`
-
-    You can pass any argument that you would normally send to `bin/kibana` by putting them after `--` when running `npm start`
-
-  - `npm run build`
-
-    Build a distributable archive
-
-  - `npm run test:browser`
-
-    Run the browser tests in a real web browser
-
-  - `npm run test:server`
-
-    Run the server tests using mocha
-
-For more information about any of these commands run `npm run ${task} -- --help`.
+More info on docker and kibana here: http://pi2s.wordpress.com
