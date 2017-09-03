@@ -1,5 +1,7 @@
 # Traffic Light Visualization
 
+![Transform Vis](https://raw.githubusercontent.com/snuids/TrafficLightVisKibana5.5/master/TrafficLight5.5.jpg)
+
 ## Versions
 Kibana 5.5 version of http://logz.io/blog/kibana-visualizations/
 
@@ -17,4 +19,4 @@ Simply unzip the content in the plugin folder of Kibana.
 
 More info on docker and kibana here: https://mannekentech.com/
 
-![Transform Vis](https://raw.githubusercontent.com/snuids/TrafficLightVisKibana5.5/master/TrafficLight5.5.jpg)
+
