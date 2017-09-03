@@ -12,7 +12,7 @@ Kibana 4.4 version here https://github.com/snuids/traffic_light_vis
 * Split chart option added. 
 * Possibility to define the numer of traffic lights per line.
 
-## Options
+## Installation
 Simply unzip the content in the plugin folder of Kibana.
 
 More info on docker and kibana here: https://mannekentech.com/
